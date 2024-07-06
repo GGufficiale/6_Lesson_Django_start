@@ -21,7 +21,19 @@ button{
     background-color: green;
 }
 
+.btn-success{
+    background-color: green;
+}
+
+.btn-cancel{
+    background-color: red;
+}
+
 input{
     border-radius: 10px;
     margin-left: 5px;
+}
+
+#btn-1{
+    color: white;
 }
